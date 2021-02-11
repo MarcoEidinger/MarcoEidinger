@@ -6,6 +6,10 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoEidinger&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![SwiftPlantUML](https://github-readme-stats.vercel.app/api/pin/?username=MarcoEidinger&repo=SwiftPlantUML&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Let's connect
 [![Twitter](https://img.shields.io/badge/twitter-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white)](http://twitter.com/MarcoEidinger)
 [![My LinkedIn profile](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-eidinger-6098a512/)

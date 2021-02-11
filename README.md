@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 , I'm [Marco Eidinger!](https://eidinger.info/)
 
 I am a Software Engineer working on open source and enterprise mobile SDKs for iOS and MacOS developers written in Swift. From 🇩🇪  and happily living in 🇺🇸
 

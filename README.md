@@ -8,11 +8,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Discover cool open-source Swift projects](https://blog.eidinger.info/discover-cool-open-source-swift-projects)
 - [Automatically format your Swift code when committing your work](https://blog.eidinger.info/automatically-format-your-swift-code-when-committing-your-work)
 - [My favorite Swift blogs](https://blog.eidinger.info/my-favorite-swift-blogs)
 - [Automatically post a tweet when publishing a release on GitHub](https://blog.eidinger.info/automatically-post-a-tweet-when-publishing-a-release-on-github)
 - [Master GitHub markdown tables with multi-line code blocks](https://blog.eidinger.info/master-github-markdown-tables-with-multi-line-code-blocks)
-- [Passing Variadic Parameters around in Swift](https://blog.eidinger.info/passing-variadic-parameters-around-in-swift)
 <!-- BLOG-POST-LIST:END -->
 
 ## Let's connect

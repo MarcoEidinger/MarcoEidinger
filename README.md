@@ -8,11 +8,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Distribute binary frameworks in Swift Packages and how to automate the process](https://blog.eidinger.info/distribute-binary-frameworks-in-swift-packages-and-how-to-automate-the-process)
 - [Use Swift Package Manager in your own Swift Package](https://blog.eidinger.info/use-swift-package-manager-in-your-own-swift-package)
 - [Develop GitHub Actions with Swift](https://blog.eidinger.info/develop-github-actions-with-swift)
 - [Discover cool open-source Swift projects](https://blog.eidinger.info/discover-cool-open-source-swift-projects)
 - [Automatically format your Swift code when committing your work](https://blog.eidinger.info/automatically-format-your-swift-code-when-committing-your-work)
-- [My favorite Swift blogs](https://blog.eidinger.info/my-favorite-swift-blogs)
 <!-- BLOG-POST-LIST:END -->
 
 ## Let's connect

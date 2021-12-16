@@ -8,11 +8,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Implement OAuth2 PKCE in Swift and test with Auth0 authorization server](https://blog.eidinger.info/implement-oauth2-pkce-in-swift-and-test-with-auth0-authorization-server)
 - [Localized SwiftUI Views in a Swift Package](https://blog.eidinger.info/localized-swiftui-views-in-a-swift-package)
 - [Visualize your iOS app changes in your GitHub pull request](https://blog.eidinger.info/visualize-your-ios-app-changes-in-your-github-pull-request)
 - [Generate and test RESTful APIs in Swift](https://blog.eidinger.info/generate-and-test-restful-apis-in-swift)
 - [Mastering Hashnode Challenge #2Articles1Week](https://blog.eidinger.info/mastering-hashnode-challenge-2articles1week)
-- [SwiftSyntax](https://blog.eidinger.info/swiftsyntax)
 <!-- BLOG-POST-LIST:END -->
 
 ## Let's connect

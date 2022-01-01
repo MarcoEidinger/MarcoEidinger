@@ -8,11 +8,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlock Visual Studio Code for GitHub in your browser](https://blog.eidinger.info/unlock-visual-studio-code-for-github-in-your-browser)
 - [The best registries for your Swift Package](https://blog.eidinger.info/the-best-registries-for-your-swift-package)
 - [When to call PHPhotoLibrary.register in iOS apps](https://blog.eidinger.info/when-to-call-phphotolibraryregister-in-ios-apps)
 - [Implement OAuth2 PKCE in Swift and test with Auth0 authorization server](https://blog.eidinger.info/implement-oauth2-pkce-in-swift-and-test-with-auth0-authorization-server)
 - [Localized SwiftUI Views in a Swift Package](https://blog.eidinger.info/localized-swiftui-views-in-a-swift-package)
-- [Visualize your iOS app changes in your GitHub pull request](https://blog.eidinger.info/visualize-your-ios-app-changes-in-your-github-pull-request)
 <!-- BLOG-POST-LIST:END -->
 
 ## Let's connect

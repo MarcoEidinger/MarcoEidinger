@@ -8,11 +8,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Discover Active iOS Dev Blogs](https://blog.eidinger.info/discover-active-ios-dev-blogs)
 - [Use Xcode Source Extensions with Key Bindings](https://blog.eidinger.info/use-xcode-source-extensions-with-key-bindings)
 - [Develop a command-line tool using Swift Concurrency](https://blog.eidinger.info/develop-a-command-line-tool-using-swift-concurrency)
 - [Adding Swift Concurrency capabilities to 3rd party projects](https://blog.eidinger.info/adding-swift-concurrency-capabilities-to-3rd-party-projects)
 - [Use a Swift command-line tool in a GitHub workflow](https://blog.eidinger.info/use-a-swift-command-line-tool-in-a-github-workflow)
-- [Visualize your keystrokes on screenshots or videos](https://blog.eidinger.info/visualize-your-keystrokes-on-screenshots-or-videos)
 <!-- BLOG-POST-LIST:END -->
 
 ## Let's connect

@@ -8,11 +8,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Client Certificate Handling on iOS](https://blog.eidinger.info/client-certificate-handling-on-ios)
 - [When to use built-in, 3rd party or a custom implementation for Async Image Loading in SwiftUI](https://blog.eidinger.info/when-to-use-built-in-3rd-party-or-a-custom-implementation-for-async-image-loading-in-swiftui)
 - [All you need to know about Managed App Configuration](https://blog.eidinger.info/all-you-need-to-know-about-managed-app-configuration)
 - [PlantUML Text Encoding in Swift](https://blog.eidinger.info/plantuml-text-encoding-in-swift)
 - [Extensible Single Sign-On on iOS](https://blog.eidinger.info/extensible-single-sign-on-on-ios)
-- [Automate the way you keep up with dependency changes in your Swift Package](https://blog.eidinger.info/automate-the-way-you-keep-up-with-dependency-changes-in-your-swift-package)
 <!-- BLOG-POST-LIST:END -->
 
 ## Let's connect

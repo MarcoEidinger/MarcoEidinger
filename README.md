@@ -8,11 +8,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [UIUserInterfaceLevel in SwiftUI](https://blog.eidinger.info/uiuserinterfacelevel-in-swiftui)
 - [Microsoft Adaptive Cards in SwiftUI](https://blog.eidinger.info/microsoft-adaptive-cards-in-swiftui)
 - [Be my SwiftUI Valentine](https://blog.eidinger.info/be-my-swiftui-valentine)
 - [3 surprises when using Markdown in SwiftUI](https://blog.eidinger.info/3-surprises-when-using-markdown-in-swiftui)
 - [Client Certificate Handling on iOS](https://blog.eidinger.info/client-certificate-handling-on-ios)
-- [When to use built-in, 3rd party or a custom implementation for Async Image Loading in SwiftUI](https://blog.eidinger.info/when-to-use-built-in-3rd-party-or-a-custom-implementation-for-async-image-loading-in-swiftui)
 <!-- BLOG-POST-LIST:END -->
 
 ## Let's connect

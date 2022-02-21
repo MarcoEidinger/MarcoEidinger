@@ -8,11 +8,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Hex to Color and Back in SwiftUI](https://blog.eidinger.info/from-hex-to-color-and-back-in-swiftui)
 - [UIUserInterfaceLevel in SwiftUI](https://blog.eidinger.info/uiuserinterfacelevel-in-swiftui)
 - [Microsoft Adaptive Cards in SwiftUI](https://blog.eidinger.info/microsoft-adaptive-cards-in-swiftui)
 - [Be my SwiftUI Valentine](https://blog.eidinger.info/be-my-swiftui-valentine)
 - [3 surprises when using Markdown in SwiftUI](https://blog.eidinger.info/3-surprises-when-using-markdown-in-swiftui)
-- [Client Certificate Handling on iOS](https://blog.eidinger.info/client-certificate-handling-on-ios)
 <!-- BLOG-POST-LIST:END -->
 
 ## Let's connect

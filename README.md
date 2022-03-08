@@ -8,11 +8,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Xcode 13.3 supports SPM binary dependency in private GitHub release](https://blog.eidinger.info/xcode-133-supports-spm-binary-dependency-in-private-github-release)
 - [Easily displaying the Swift version that ships with Xcode](https://blog.eidinger.info/easily-displaying-the-swift-version-that-ships-with-xcode)
 - [Haptics on Apple Platforms](https://blog.eidinger.info/haptics-on-apple-platforms)
 - [What are dSYM files and why are they needed](https://blog.eidinger.info/what-are-dsym-files-and-why-are-they-needed)
 - [From Hex to Color and Back in SwiftUI](https://blog.eidinger.info/from-hex-to-color-and-back-in-swiftui)
-- [UIUserInterfaceLevel in SwiftUI](https://blog.eidinger.info/uiuserinterfacelevel-in-swiftui)
 <!-- BLOG-POST-LIST:END -->
 
 ## Let's connect

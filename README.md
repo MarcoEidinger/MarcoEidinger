@@ -8,11 +8,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What can go wrong when using custom fonts in SwiftUI](https://blog.eidinger.info/what-can-go-wrong-when-using-custom-fonts-in-swiftui)
 - [How to test object substitution attacks and NSSecureCoding](https://blog.eidinger.info/how-to-test-object-substitution-attacks-and-nssecurecoding)
 - [Info.plist based Certificate Pinning on iOS](https://blog.eidinger.info/infoplist-based-certificate-pinning-on-ios)
 - [How to monitor progress of Xcode installation from App Store](https://blog.eidinger.info/how-to-monitor-progress-of-xcode-installation-from-app-store)
 - [Xcode 13.3 supports SPM binary dependency in private GitHub release](https://blog.eidinger.info/xcode-133-supports-spm-binary-dependency-in-private-github-release)
-- [Easily displaying the Swift version that ships with Xcode](https://blog.eidinger.info/easily-displaying-the-swift-version-that-ships-with-xcode)
 <!-- BLOG-POST-LIST:END -->
 
 ## Let's connect

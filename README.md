@@ -8,11 +8,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Integrate a complex Swift Package into your iOS app](https://blog.eidinger.info/integrate-a-complex-swift-package-into-your-ios-app)
 - [Swift Package Manager: understand resolve, reset and update](https://blog.eidinger.info/swift-package-manager-understand-resolve-reset-and-update)
 - [What can go wrong when using custom fonts in SwiftUI](https://blog.eidinger.info/what-can-go-wrong-when-using-custom-fonts-in-swiftui)
 - [How to test object substitution attacks and NSSecureCoding](https://blog.eidinger.info/how-to-test-object-substitution-attacks-and-nssecurecoding)
 - [Info.plist based Certificate Pinning on iOS](https://blog.eidinger.info/infoplist-based-certificate-pinning-on-ios)
-- [How to monitor progress of Xcode installation from App Store](https://blog.eidinger.info/how-to-monitor-progress-of-xcode-installation-from-app-store)
 <!-- BLOG-POST-LIST:END -->
 
 ## Let's connect

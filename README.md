@@ -8,11 +8,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Best practices for open-source projects](https://blog.eidinger.info/best-practices-for-open-source-projects)
 - [Use macOS 12 and Xcode 13.3 in your GitHub action workflow](https://blog.eidinger.info/use-macos-12-and-xcode-133-in-your-github-action-workflow)
 - [swift package purge-cache](https://blog.eidinger.info/swift-package-purge-cache)
 - [Integrate a complex Swift Package into your iOS app](https://blog.eidinger.info/integrate-a-complex-swift-package-into-your-ios-app)
 - [Swift Package Manager: understand resolve, reset and update](https://blog.eidinger.info/swift-package-manager-understand-resolve-reset-and-update)
-- [What can go wrong when using custom fonts in SwiftUI](https://blog.eidinger.info/what-can-go-wrong-when-using-custom-fonts-in-swiftui)
 <!-- BLOG-POST-LIST:END -->
 
 ## Let's connect

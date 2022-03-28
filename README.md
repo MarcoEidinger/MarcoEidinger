@@ -8,11 +8,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mobile Device Management Settings 101](https://blog.eidinger.info/mobile-device-management-settings-101)
 - [Developers either love or hate these classic movies and tv shows](https://blog.eidinger.info/developers-either-love-or-hate-these-classic-movies-and-tv-shows)
 - [Best practices for open-source projects](https://blog.eidinger.info/best-practices-for-open-source-projects)
 - [Use macOS 12 and Xcode 13.3 in your GitHub action workflow](https://blog.eidinger.info/use-macos-12-and-xcode-133-in-your-github-action-workflow)
 - [swift package purge-cache](https://blog.eidinger.info/swift-package-purge-cache)
-- [Integrate a complex Swift Package into your iOS app](https://blog.eidinger.info/integrate-a-complex-swift-package-into-your-ios-app)
 <!-- BLOG-POST-LIST:END -->
 
 ## Let's connect

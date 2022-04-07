@@ -8,11 +8,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hot Reloading a SwiftUI App](https://blog.eidinger.info/hot-reloading-a-swiftui-app)
 - [Create your custom SwiftUI file template in Xcode](https://blog.eidinger.info/create-your-custom-swiftui-file-template-in-xcode)
 - [Apple&#39;s DeveloperToolsSupport framework](https://blog.eidinger.info/apples-developertoolssupport-framework)
 - [Dump SwiftUI Environment efficiently](https://blog.eidinger.info/dump-swiftui-environment-efficiently)
 - [Mobile Device Management Settings 101](https://blog.eidinger.info/mobile-device-management-settings-101)
-- [Developers either love or hate these classic movies and tv shows](https://blog.eidinger.info/developers-either-love-or-hate-these-classic-movies-and-tv-shows)
 <!-- BLOG-POST-LIST:END -->
 
 ## Let's connect

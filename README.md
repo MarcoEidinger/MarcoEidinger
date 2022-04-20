@@ -8,11 +8,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [git bisect run xcodebuild](https://blog.eidinger.info/git-bisect-run-xcodebuild)
 - [Sponsoring amazing members of the Swift and iOS community](https://blog.eidinger.info/sponsoring-amazing-members-of-the-swift-and-ios-community)
 - [Hot Reloading a SceneDelegate in Swift](https://blog.eidinger.info/hot-reloading-a-scenedelegate-in-swift)
 - [TIL: SwiftUI List on macOS](https://blog.eidinger.info/til-swiftui-list-on-macos)
 - [Hot Reloading a SwiftUI App](https://blog.eidinger.info/hot-reloading-a-swiftui-app)
-- [Create your custom SwiftUI file template in Xcode](https://blog.eidinger.info/create-your-custom-swiftui-file-template-in-xcode)
 <!-- BLOG-POST-LIST:END -->
 
 ## Let's connect

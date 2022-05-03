@@ -8,11 +8,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Confetti Animation in SwiftUI](https://blog.eidinger.info/confetti-animation-in-swiftui)
 - [Use environment variables from .env file in a Swift Package](https://blog.eidinger.info/use-environment-variables-from-env-file-in-a-swift-package)
 - [git bisect run xcodebuild](https://blog.eidinger.info/git-bisect-run-xcodebuild)
 - [Sponsoring amazing members of the Swift and iOS community](https://blog.eidinger.info/sponsoring-amazing-members-of-the-swift-and-ios-community)
 - [Hot Reloading a SceneDelegate in Swift](https://blog.eidinger.info/hot-reloading-a-scenedelegate-in-swift)
-- [TIL: SwiftUI List on macOS](https://blog.eidinger.info/til-swiftui-list-on-macos)
 <!-- BLOG-POST-LIST:END -->
 
 ## Let's connect

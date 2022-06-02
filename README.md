@@ -8,11 +8,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [watchOS articles from Apple](https://blog.eidinger.info/watchos-articles-from-apple)
 - [Faster unit tests by not running the app startup logic](https://blog.eidinger.info/faster-unit-tests-by-not-running-the-app-startup-logic)
 - [Make your SwiftUI view modifiers safer](https://blog.eidinger.info/make-your-swiftui-view-modifiers-safer)
 - [KeyboardTypes in SwiftUI](https://blog.eidinger.info/keyboardtypes-in-swiftui)
 - [Brag how good your Swift frameworks are documented](https://blog.eidinger.info/brag-how-good-your-swift-frameworks-are-documented)
-- [Confetti Animation in SwiftUI](https://blog.eidinger.info/confetti-animation-in-swiftui)
 <!-- BLOG-POST-LIST:END -->
 
 ## Let's connect

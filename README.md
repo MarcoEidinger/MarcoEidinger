@@ -8,11 +8,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Find helpful iOS and Swift Code Snippets](https://blog.eidinger.info/find-helpful-ios-and-swift-code-snippets)
 - [Xcode integration of Swift Package Plugins in Xcode 14](https://blog.eidinger.info/xcode-integration-of-swift-package-plugins-in-xcode-14)
 - [All new frameworks presented at WWDC22](https://blog.eidinger.info/all-new-frameworks-presented-at-wwdc22)
 - [View all public frameworks provided by Apple and check their platform availability at a glance](https://blog.eidinger.info/view-all-public-frameworks-provided-by-apple-and-check-their-platform-availability-at-a-glance)
 - [watchOS articles from Apple](https://blog.eidinger.info/watchos-articles-from-apple)
-- [Faster unit tests by not running the app startup logic](https://blog.eidinger.info/faster-unit-tests-by-not-running-the-app-startup-logic)
 <!-- BLOG-POST-LIST:END -->
 
 ## Let's connect

@@ -6,11 +6,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Predefined SwiftUI code snippets in Xcode](https://blog.eidinger.info/predefined-swiftui-code-snippets-in-xcode)
 - [Add a keyboard shortcut to Swift package command plugins](https://blog.eidinger.info/add-a-keyboard-shortcut-to-swift-package-command-plugins)
 - [Find helpful iOS and Swift Code Snippets](https://blog.eidinger.info/find-helpful-ios-and-swift-code-snippets)
 - [Xcode integration of Swift Package Plugins in Xcode 14](https://blog.eidinger.info/xcode-integration-of-swift-package-plugins-in-xcode-14)
 - [All new frameworks presented at WWDC22](https://blog.eidinger.info/all-new-frameworks-presented-at-wwdc22)
-- [View all public frameworks provided by Apple and check their platform availability at a glance](https://blog.eidinger.info/view-all-public-frameworks-provided-by-apple-and-check-their-platform-availability-at-a-glance)
 <!-- BLOG-POST-LIST:END -->
 
 ## Let's connect

@@ -6,11 +6,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Use new URL related APIs from iOS 16 in lower versions](https://blog.eidinger.info/use-new-url-related-apis-from-ios-16-in-lower-versions)
 - [Create your custom playground template in Xcode](https://blog.eidinger.info/create-your-custom-playground-template-in-xcode)
 - [PhotosPicker on SwiftUI](https://blog.eidinger.info/photospicker-on-swiftui)
 - [Predefined SwiftUI code snippets in Xcode](https://blog.eidinger.info/predefined-swiftui-code-snippets-in-xcode)
 - [Add a keyboard shortcut to Swift package command plugins](https://blog.eidinger.info/add-a-keyboard-shortcut-to-swift-package-command-plugins)
-- [Find helpful iOS and Swift Code Snippets](https://blog.eidinger.info/find-helpful-ios-and-swift-code-snippets)
 <!-- BLOG-POST-LIST:END -->
 
 ## Let's connect

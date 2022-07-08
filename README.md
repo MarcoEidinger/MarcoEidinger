@@ -4,7 +4,7 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 [![Marco's github stats](https://github-readme-stats.vercel.app/api?username=MarcoEidinger&count_private=false&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## Blog posts
+## My recent blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Use new URL related APIs from iOS 16 in lower versions](https://blog.eidinger.info/use-new-url-related-apis-from-ios-16-in-lower-versions)
 - [Create your custom playground template in Xcode](https://blog.eidinger.info/create-your-custom-playground-template-in-xcode)
@@ -12,6 +12,10 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 - [Predefined SwiftUI code snippets in Xcode](https://blog.eidinger.info/predefined-swiftui-code-snippets-in-xcode)
 - [Add a keyboard shortcut to Swift package command plugins](https://blog.eidinger.info/add-a-keyboard-shortcut-to-swift-package-command-plugins)
 <!-- BLOG-POST-LIST:END -->
+
+## My recent videos
+<!-- YOUTUBE-ALL:START -->
+<!-- YOUTUBE-ALL:END -->
 
 ## Let's connect
 [![Twitter](https://img.shields.io/badge/twitter-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white)](http://twitter.com/MarcoEidinger)

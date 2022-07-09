@@ -15,6 +15,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## My recent videos
 <!-- YOUTUBE-ALL:START -->
+- [Hot Reloading a SceneDelegate in Swift](https://www.youtube.com/watch?v=JIfip0s3KX8)
+- [Hot Reloading a SwiftUI application &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=U7-CD-lSWdM)
+- [Hot Reloading a SwiftUI application](https://www.youtube.com/watch?v=amBkjVfgFL8)
+- [Create your custom SwiftUI file template in Xcode](https://www.youtube.com/watch?v=h8js3e657xc)
+- [Behavior of Info.plist based Certificate Pinning on iOS](https://www.youtube.com/watch?v=ZC0KpydbzWc)
 <!-- YOUTUBE-ALL:END -->
 
 ## Let's connect

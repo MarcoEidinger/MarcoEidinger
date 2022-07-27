@@ -6,11 +6,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## My recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Five Tips for Swift Package Plugin Development](https://blog.eidinger.info/five-tips-for-swift-package-plugin-development)
 - [Create and share a collection of Twitter Tweets](https://blog.eidinger.info/create-and-share-a-collection-of-twitter-tweets)
 - [Awesome newsletters for iOS and Swift developers in 2022](https://blog.eidinger.info/awesome-newsletters-for-ios-and-swift-developers-in-2022)
 - [SwiftFormatPlugin](https://blog.eidinger.info/swiftformatplugin)
 - [Open your terminal from Xcode](https://blog.eidinger.info/open-your-terminal-from-xcode)
-- [Modify a value during iOS debugging in Xcode](https://blog.eidinger.info/modify-a-value-during-ios-debugging-in-xcode)
 <!-- BLOG-POST-LIST:END -->
 
 ## My recent videos

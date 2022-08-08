@@ -6,11 +6,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## My recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SwiftUI&#39;s Table View on iOS 16](https://blog.eidinger.info/swiftuis-table-view-on-ios-16)
 - [Make GraphQL requests in Swift](https://blog.eidinger.info/make-graphql-requests-in-swift)
 - [Five Tips for Swift Package Plugin Development](https://blog.eidinger.info/five-tips-for-swift-package-plugin-development)
 - [Create and share a collection of Twitter Tweets](https://blog.eidinger.info/create-and-share-a-collection-of-twitter-tweets)
 - [Awesome newsletters for iOS and Swift developers in 2022](https://blog.eidinger.info/awesome-newsletters-for-ios-and-swift-developers-in-2022)
-- [SwiftFormatPlugin](https://blog.eidinger.info/swiftformatplugin)
 <!-- BLOG-POST-LIST:END -->
 
 ## My recent videos

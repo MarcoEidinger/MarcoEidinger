@@ -6,11 +6,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## My recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Xcode&#39;s refactoring options for async/await](https://blog.eidinger.info/xcodes-refactoring-options-for-asyncawait)
 - [Generate UML documentation from a binary framework &lpar;xcframework&rpar;](https://blog.eidinger.info/generate-uml-documentation-from-a-binary-framework-xcframework)
 - [SwiftUI limitations for Mobile Analytics](https://blog.eidinger.info/swiftui-limitations-for-mobile-analytics)
 - [Autocompletion for Swift Package Manager Commands](https://blog.eidinger.info/autocompletion-for-swift-package-manager-commands)
 - [SwiftUI&#39;s Table View on iOS 16](https://blog.eidinger.info/swiftuis-table-view-on-ios-16)
-- [Make GraphQL requests in Swift](https://blog.eidinger.info/make-graphql-requests-in-swift)
 <!-- BLOG-POST-LIST:END -->
 
 ## My recent videos

@@ -15,11 +15,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## My recent videos
 <!-- YOUTUBE-ALL:START -->
+- [Swift SPI Explained in 30 Seconds](https://www.youtube.com/watch?v=cwIcMgXYLqA)
 - [Create and Share a Collection of Twitter Tweets](https://www.youtube.com/watch?v=RtaNNMAMFPM)
 - [Hot Reloading a SceneDelegate in Swift](https://www.youtube.com/watch?v=JIfip0s3KX8)
 - [Hot Reloading a SwiftUI application &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=U7-CD-lSWdM)
 - [Hot Reloading a SwiftUI application](https://www.youtube.com/watch?v=amBkjVfgFL8)
-- [Create your custom SwiftUI file template in Xcode](https://www.youtube.com/watch?v=h8js3e657xc)
 <!-- YOUTUBE-ALL:END -->
 
 ## Let's connect

@@ -6,11 +6,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## My recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Subclassing an open Swift class is not always possible](https://blog.eidinger.info/subclassing-an-open-swift-class-is-not-always-possible)
 - [System Programming Interfaces &lpar;SPI&rpar; in Swift Explained](https://blog.eidinger.info/system-programming-interfaces-spi-in-swift-explained)
 - [Using Identifiable in SwiftUI](https://blog.eidinger.info/using-identifiable-in-swiftui)
 - [Why your Xcode version still matters with Module Stability](https://blog.eidinger.info/why-your-xcode-version-still-matters-with-module-stability)
 - [Generate a man page for a Swift command-line tool](https://blog.eidinger.info/generate-a-man-page-for-a-swift-command-line-tool)
-- [Xcode&#39;s refactoring options for async/await](https://blog.eidinger.info/xcodes-refactoring-options-for-asyncawait)
 <!-- BLOG-POST-LIST:END -->
 
 ## My recent videos

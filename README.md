@@ -6,11 +6,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## My recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to handle popups and alerts in WKWebView](https://blog.eidinger.info/how-to-handle-popups-and-alerts-in-wkwebview)
 - [Why and how to adopt actions/checkout@v3 in your GitHub Action workflow](https://blog.eidinger.info/why-and-how-to-adopt-actionscheckoutv3-in-your-github-action-workflow)
 - [Swift Package Manager supports Git Submodules](https://blog.eidinger.info/swift-package-manager-supports-git-submodules)
 - [Subclassing an open Swift class is not always possible](https://blog.eidinger.info/subclassing-an-open-swift-class-is-not-always-possible)
 - [System Programming Interfaces &lpar;SPI&rpar; in Swift Explained](https://blog.eidinger.info/system-programming-interfaces-spi-in-swift-explained)
-- [Using Identifiable in SwiftUI](https://blog.eidinger.info/using-identifiable-in-swiftui)
 <!-- BLOG-POST-LIST:END -->
 
 ## My recent videos

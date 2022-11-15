@@ -6,11 +6,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## My recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A critical look at Swift Snippets &lpar;Swift 5.7&rpar;](https://blog.eidinger.info/a-critical-look-at-swift-snippets-swift-57)
 - [Share files between your iOS app, Widget and WatchKit extensions](https://blog.eidinger.info/share-files-between-your-ios-app-widget-and-watchkit-extensions)
 - [Apple Wallet: supported barcode types and workarounds](https://blog.eidinger.info/apple-wallet-supported-barcode-types-and-workarounds)
 - [Convert Celsius to Fahrenheit and back in Swift](https://blog.eidinger.info/convert-celsius-to-fahrenheit-and-back-in-swift)
 - [How to handle popups and alerts in WKWebView](https://blog.eidinger.info/how-to-handle-popups-and-alerts-in-wkwebview)
-- [Why and how to adopt actions/checkout@v3 in your GitHub Action workflow](https://blog.eidinger.info/why-and-how-to-adopt-actionscheckoutv3-in-your-github-action-workflow)
 <!-- BLOG-POST-LIST:END -->
 
 ## My recent videos

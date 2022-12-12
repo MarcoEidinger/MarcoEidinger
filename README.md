@@ -6,11 +6,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## My recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Swift Enum With Labeled Associated Values](https://blog.eidinger.info/swift-enum-with-labeled-associated-values)
 - [HTTP/3 support for URLSession](https://blog.eidinger.info/http3-support-for-urlsession)
 - [Cross-platform API to determine OS version and name in Swift](https://blog.eidinger.info/cross-platform-api-to-determine-os-version-and-name-in-swift)
 - [Test Your Command-Line Tool In Xcode](https://blog.eidinger.info/test-your-command-line-tool-in-xcode)
 - [A critical look at Swift Snippets &lpar;Swift 5.7&rpar;](https://blog.eidinger.info/a-critical-look-at-swift-snippets-swift-57)
-- [Share files between your iOS app, Widget and WatchKit extensions](https://blog.eidinger.info/share-files-between-your-ios-app-widget-and-watchkit-extensions)
 <!-- BLOG-POST-LIST:END -->
 
 ## My recent videos

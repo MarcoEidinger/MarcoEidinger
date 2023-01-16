@@ -6,11 +6,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## My recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Make your app&#39;s files user-visible on the iPhone](https://blog.eidinger.info/make-your-apps-files-user-visible-on-the-iphone)
 - [Prevent copy &amp; paste into other iOS apps](https://blog.eidinger.info/prevent-copy-paste-into-other-ios-apps)
 - [How to disable custom keyboards in iOS SwiftUI-based applications](https://blog.eidinger.info/how-to-disable-custom-keyboards-in-ios-swiftui-based-applications)
 - [My SwiftyTech 2022 Recap](https://blog.eidinger.info/my-swiftytech-2022-recap)
 - [Swift Enum With Labeled Associated Values](https://blog.eidinger.info/swift-enum-with-labeled-associated-values)
-- [HTTP/3 support for URLSession](https://blog.eidinger.info/http3-support-for-urlsession)
 <!-- BLOG-POST-LIST:END -->
 
 ## My recent videos

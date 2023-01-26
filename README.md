@@ -6,11 +6,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## My recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Save money when using GitHub Actions for iOS CI/CD](https://blog.eidinger.info/save-money-when-using-github-actions-for-ios-cicd)
 - [Prevent your app&#39;s files from being included in iCloud Backup](https://blog.eidinger.info/prevent-your-apps-files-from-being-included-in-icloud-backup)
 - [Make your app&#39;s files user-visible on the iPhone](https://blog.eidinger.info/make-your-apps-files-user-visible-on-the-iphone)
 - [Prevent copy &amp; paste into other iOS apps](https://blog.eidinger.info/prevent-copy-paste-into-other-ios-apps)
 - [How to disable custom keyboards in iOS SwiftUI-based applications](https://blog.eidinger.info/how-to-disable-custom-keyboards-in-ios-swiftui-based-applications)
-- [My SwiftyTech 2022 Recap](https://blog.eidinger.info/my-swiftytech-2022-recap)
 <!-- BLOG-POST-LIST:END -->
 
 ## My recent videos

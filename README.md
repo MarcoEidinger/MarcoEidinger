@@ -15,11 +15,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## My recent videos
 <!-- YOUTUBE-ALL:START -->
+- [swift -e runs code directly from the command line](https://www.youtube.com/watch?v=B1vfWu172sA)
 - [iOS Jailbreak Detection in 2023](https://www.youtube.com/watch?v=g7SQ8zoNvXc)
 - [Automatically run Swift code when your framework gets initialized](https://www.youtube.com/watch?v=Pr1vcj0Wrbo)
 - [Testing your command-line tool in Xcode](https://www.youtube.com/watch?v=qeP4YgzWmjY)
 - [An introduction to Swift Snippets &lpar;Swift 5.7&rpar;](https://www.youtube.com/watch?v=_z0GibyP5hg)
-- [Swift SPI Explained in 30 Seconds](https://www.youtube.com/watch?v=cwIcMgXYLqA)
 <!-- YOUTUBE-ALL:END -->
 
 ## Let's connect

@@ -6,11 +6,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## My recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The visual reference guide for documenting your Swift code](https://blog.eidinger.info/the-visual-reference-guide-for-documenting-your-swift-code)
 - [swift -e runs code directly from the command line](https://blog.eidinger.info/swift-e-runs-code-directly-from-the-command-line)
 - [Transforming the Case of Strings in Swift](https://blog.eidinger.info/transforming-the-case-of-strings-in-swift)
 - [iOS Jailbreak Detection in 2023](https://blog.eidinger.info/ios-jailbreak-detection-in-2023)
 - [Automatically run Swift code when your framework gets initialized](https://blog.eidinger.info/automatically-run-swift-code-when-your-framework-gets-initialized)
-- [Save money when using GitHub Actions for iOS CI/CD](https://blog.eidinger.info/save-money-when-using-github-actions-for-ios-cicd)
 <!-- BLOG-POST-LIST:END -->
 
 ## My recent videos

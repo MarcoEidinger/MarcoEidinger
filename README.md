@@ -6,11 +6,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## My recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Debugging ASWebAuthenticationSession](https://blog.eidinger.info/debugging-aswebauthenticationsession)
 - [Keep your CoreData store small by vacuuming](https://blog.eidinger.info/keep-your-coredata-store-small-by-vacuuming)
 - [Pimp My DocC Documentation](https://blog.eidinger.info/pimp-my-docc-documentation)
 - [The visual reference guide for documenting your Swift code](https://blog.eidinger.info/the-visual-reference-guide-for-documenting-your-swift-code)
 - [swift -e runs code directly from the command line](https://blog.eidinger.info/swift-e-runs-code-directly-from-the-command-line)
-- [Transforming the Case of Strings in Swift](https://blog.eidinger.info/transforming-the-case-of-strings-in-swift)
 <!-- BLOG-POST-LIST:END -->
 
 ## My recent videos

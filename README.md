@@ -6,11 +6,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## My recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SDK conditional code with canImport&lpar;module, _version: &quot;1.2.3.4&quot;&rpar;](https://blog.eidinger.info/sdk-conditional-code-with-canimportmodule-version-1234)
 - [Follow-up: SwiftUI limitations for Mobile Analytics](https://blog.eidinger.info/follow-up-swiftui-limitations-for-mobile-analytics)
 - [Debugging ASWebAuthenticationSession](https://blog.eidinger.info/debugging-aswebauthenticationsession)
 - [Keep your CoreData store small by vacuuming](https://blog.eidinger.info/keep-your-coredata-store-small-by-vacuuming)
 - [Pimp My DocC Documentation](https://blog.eidinger.info/pimp-my-docc-documentation)
-- [The visual reference guide for documenting your Swift code](https://blog.eidinger.info/the-visual-reference-guide-for-documenting-your-swift-code)
 <!-- BLOG-POST-LIST:END -->
 
 ## My recent videos

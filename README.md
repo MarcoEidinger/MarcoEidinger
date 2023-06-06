@@ -6,11 +6,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## My recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [All new frameworks presented at WWDC23](https://blog.eidinger.info/all-new-frameworks-presented-at-wwdc23)
 - [Skip code during debugging in Xcode](https://blog.eidinger.info/skip-code-during-debugging-in-xcode)
 - [UIViewRepresentables must be value types](https://blog.eidinger.info/uiviewrepresentables-must-be-value-types)
 - [Efficient Data Transfer in iOS Apps: Exploring HTTP Compression](https://blog.eidinger.info/efficient-data-transfer-in-ios-apps-exploring-http-compression)
 - [Giving Back to the Developer Community: A Guide to Sponsoring Swift and iOS Developers](https://blog.eidinger.info/giving-back-to-the-developer-community-a-guide-to-sponsoring-swift-and-ios-developers)
-- [Mirror your Apple Watch to your iPhone](https://blog.eidinger.info/mirror-your-apple-watch-to-your-iphone)
 <!-- BLOG-POST-LIST:END -->
 
 ## My recent videos

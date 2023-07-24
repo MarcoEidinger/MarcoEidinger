@@ -6,11 +6,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## My recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [URL extraction for hostname, domain, subdomain and tld in Swift](https://blog.eidinger.info/url-extraction-for-hostname-domain-subdomain-and-tld-in-swift)
 - [Why is it so damn difficult to create a binary framework for your Swift Package](https://blog.eidinger.info/why-is-it-so-damn-difficult-to-create-a-binary-framework-for-your-swift-package)
 - [Inspect Web Content on iOS 16.4+](https://blog.eidinger.info/inspect-web-content-on-ios-164)
 - [Using Swift packages with authentication in Xcode Cloud](https://blog.eidinger.info/using-swift-packages-with-authentication-in-xcode-cloud)
 - [Generate RESTful APIs with Swift in 2023](https://blog.eidinger.info/generate-restful-apis-with-swift-in-2023)
-- [All new frameworks presented at WWDC23](https://blog.eidinger.info/all-new-frameworks-presented-at-wwdc23)
 <!-- BLOG-POST-LIST:END -->
 
 ## My recent videos

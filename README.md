@@ -6,11 +6,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## My recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Develop and test OpticID for Vision Pro](https://blog.eidinger.info/develop-and-test-opticid-for-vision-pro)
 - [How to check if you use a required reason API](https://blog.eidinger.info/how-to-check-if-you-use-a-required-reason-api)
 - [GitHub embraces Swift and provides code analysis, security alerts and dependency updates for Swift projects](https://blog.eidinger.info/github-embraces-swift-and-provides-code-analysis-security-alerts-and-dependency-updates-for-swift-projects)
 - [URL extraction for hostname, domain, subdomain and tld in Swift](https://blog.eidinger.info/url-extraction-for-hostname-domain-subdomain-and-tld-in-swift)
 - [Why is it so damn difficult to create a binary framework for your Swift Package](https://blog.eidinger.info/why-is-it-so-damn-difficult-to-create-a-binary-framework-for-your-swift-package)
-- [Inspect Web Content on iOS 16.4+](https://blog.eidinger.info/inspect-web-content-on-ios-164)
 <!-- BLOG-POST-LIST:END -->
 
 ## My recent videos

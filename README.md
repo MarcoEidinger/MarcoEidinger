@@ -6,11 +6,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## My recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A new access modifier in Swift: package](https://blog.eidinger.info/a-new-access-modifier-in-swift-package)
 - [How to verify a signed xcframework programmatically](https://blog.eidinger.info/how-to-verify-a-signed-xcframework-programmatically)
 - [Ensure safe code in your iOS app extensions](https://blog.eidinger.info/ensure-safe-code-in-your-ios-app-extensions)
 - [Awesome newsletters for iOS and Swift developers in 2024](https://blog.eidinger.info/awesome-newsletters-for-ios-and-swift-developers-in-2024)
 - [Develop and test OpticID for Vision Pro](https://blog.eidinger.info/develop-and-test-opticid-for-vision-pro)
-- [How to check if you use a required reason API](https://blog.eidinger.info/how-to-check-if-you-use-a-required-reason-api)
 <!-- BLOG-POST-LIST:END -->
 
 ## My recent videos

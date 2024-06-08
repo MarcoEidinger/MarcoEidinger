@@ -6,11 +6,11 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 
 ## My recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SwiftUI Bottom Sheet: How to Hide Unwanted UI Components](https://blog.eidinger.info/swiftui-bottom-sheet-how-to-hide-unwanted-ui-components)
 - [Get the biometric authentication prompt for protected keychain items in the iOS simulator](https://blog.eidinger.info/get-the-biometric-authentication-prompt-for-protected-keychain-items-in-the-ios-simulator)
 - [A new access modifier in Swift: package](https://blog.eidinger.info/a-new-access-modifier-in-swift-package)
 - [How to verify a signed xcframework programmatically](https://blog.eidinger.info/how-to-verify-a-signed-xcframework-programmatically)
 - [Ensure safe code in your iOS app extensions](https://blog.eidinger.info/ensure-safe-code-in-your-ios-app-extensions)
-- [Awesome newsletters for iOS and Swift developers in 2024](https://blog.eidinger.info/awesome-newsletters-for-ios-and-swift-developers-in-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ## My recent videos
